@@ -5,8 +5,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 40px;
+}
+
+li {
+  list-style-type: none;
+}
+
 .container {
-  width: 400px;
+  width: 500px;
 }
 
 #taskName {
