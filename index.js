@@ -16,15 +16,3 @@ addButton.addEventListener('click', function(e) {
         list.removeChild(newLi);
     })
 })
-
-// for(let li of listItem){
-//     li.addEventListener('click', function(e){
-//         e.preventDefault();
-//         console.log(e.target);
-//     })
-// }
-
-// listItem.addEventListener('click', function(e) {
-//     e.preventDefault();
-//     console.log(e.target)
-// })
