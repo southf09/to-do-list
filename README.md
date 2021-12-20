@@ -2,6 +2,13 @@
 
 This is a simple To Do application.
 
+Technologies/Resources Used:
+
+- HTML / CSS
+- Vanilla JS / DOM Manipulation
+- Color palettes from Coolors
+- Google Fonts
+
 Functionality:
 
 - Add items to your To Do list by entering text into the text box and either clicking the button, or hitting return/enter on your keyboard.
